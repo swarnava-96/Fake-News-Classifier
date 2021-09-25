@@ -1,5 +1,5 @@
 # Fake-News-Classifier
-https://www.kaggle.com/c/fake-news/data#
+https://www.kaggle.com/c/fake-news/data
 
 In these notebooks, I have only implemented with the train dataset that is available on Kaggle as mentioned in the above link. For the test dataset we can also use similar approach as I have alredy done with the train data. 
 
